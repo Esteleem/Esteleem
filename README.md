@@ -8,7 +8,7 @@ Over the last four years, I have worked in different companies from the IT and F
   <a href="https://www.linkedin.com/in/estela-mora-alfons%C3%ADn-b7571b9a/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
      </a>&nbsp;&nbsp;
-  <a href="e.moraalfonsin@gmail.com">
+  <a href="mailto:e.moraalfonsin@gmail.com" >e.moraalfonsin@gmail.com</a>
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
