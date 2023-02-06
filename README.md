@@ -60,7 +60,6 @@ Over the last four years, I have worked in different companies from the IT and F
 <ul>
 <li> Collection of financial information from public sources </li>
 <li> Platform update and QA of platform records </li>
-<li> Platform update and QA of platform records </li>
 </ul>
 
 ### Freelance Translator and Interpreter
