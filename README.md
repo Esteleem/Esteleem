@@ -34,6 +34,7 @@ Over the last four years, I have worked in different companies from the IT and F
 <li> Content creation for the API Portal </li>
 <li> Management of Bitbucket repositories, Jira incidents, and Confluence </li>
 <li> Live translation (ENG<>SPA) at virtual meetings and training sessions </li>
+<li> Design and facilitation of writing workshop for developers and technical roles </li>
 </ul>
 
 <b> My Work in Metrics </b>
@@ -42,6 +43,7 @@ Over the last four years, I have worked in different companies from the IT and F
 <li> + 80 files edited for the lastest major release of Cyberbank 4.0 (Technisys' propietary product) </li>
 <li> 30 training material decks written, edited and translated </li>
 <li> Live translation in more than 50 virtual meetings </li>
+<li> +300 attendees in writing workshops for developers and technical roles </li>
 </ul>
 
 ### Senior Technical Writer — Crisil 
