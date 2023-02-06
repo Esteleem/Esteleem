@@ -39,7 +39,7 @@ Over the last four years, I have worked in different companies from the IT and F
 <b> My Work in Metrics </b>
 <ul>
 <li> + 100 edited file for the API Portal </li>
-<li> + 80 filed edited for the lastest major release of Cyberbank 4.0 (Technisys' propietary product) </li>
+<li> + 80 files edited for the lastest major release of Cyberbank 4.0 (Technisys' propietary product) </li>
 <li> 30 training material decks written, edited and translated </li>
 <li> Live translation in more than 50 virtual meetings </li>
 </ul>
@@ -88,6 +88,7 @@ Over the last four years, I have worked in different companies from the IT and F
 ## Education
 ### Exchange Student — University of Guelph
 📆 2022–2022| 📍 Ontario, Canada
+
 Courses taken: Linguistics, Project Management, Consumer Behavior Theory
 
 ### MA in Marketing and Communications — University of San Andres
